@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+class Car{
+    String model;
+    int year;
+    int horse_power;
+}
+
 public class Main {
     public static char[][][] map2 = {
 // СЕКТОР 0 (9x8)
